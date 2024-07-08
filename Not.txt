@@ -1,0 +1,15 @@
+Direct Exchange : Mesajların direkt olarak belirli bir kuyruğa gönderilmesini sağlanayan exchange'dir.
+Birden fazla kuyruğun kullanıldığı seneryolarda istediğiniz kuyruğa nokta atış publish işlemi yapmak istiyorsanız direck exchange bu şekilde kullanılabilir.
+
+Fanout Exchange: Mesajların, bu exchange'e bind olmuş olan tüm kuyruklara gönderilmesini sağlar. 
+Publisher mesajların gönderildiğini kuyruk isimlerini dikkate almaz ve mesajları tüm kuyruklara gönderir.
+
+Topic Exchange: Routing keyleri kulalnarak mesajları yönlendirmek için kullanılan bir exchange'dir. 
+Bu exchange ile routing key'in bir kısmına / formatına / yapısına / yapısındaki keylere göre kuyruklara mesaj gönderilir.
+https://www.gencayyildiz.com/blog/rabbitmq-topic-exchange/
+
+Header Exchange: Routing key yetine header'ları kullanarak mesajları kuyruklara yönlendirmek için kullanılan exchange'dir.
+x-match: ilgili queue'nun mesajı hangi davranışla alacağının kararını veren key'dir.
+bu iki değer alır birincisi 
+any: ilgili queue'nun sadece tek bir key-value değerinin eşleşmesi neticesinde mesajı alacağını ifade eder.
+all: ilgili queue'nun tüm key-value değerindeki verilerin eşleşmesi neticeisinde mesajı alacağını ifade eder.
