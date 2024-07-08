@@ -1,0 +1,1 @@
+Kuyruktaki mesajlar başarıyla işlendi ise consumer tarafından mesajın başarıyla işlendiğine dair bildiride bulunur ve mesaj silinir

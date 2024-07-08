@@ -1,0 +1,17 @@
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\bin\Debug\net8.0\RabbitMQ.Consumer-3.exe
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\bin\Debug\net8.0\RabbitMQ.Consumer-3.deps.json
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\bin\Debug\net8.0\RabbitMQ.Consumer-3.runtimeconfig.json
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\bin\Debug\net8.0\RabbitMQ.Consumer-3.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\bin\Debug\net8.0\RabbitMQ.Consumer-3.pdb
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.Consumer-3.csproj.AssemblyReference.cache
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.Consumer-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.Consumer-3.AssemblyInfoInputs.cache
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.Consumer-3.AssemblyInfo.cs
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.Consumer-3.csproj.CoreCompileInputs.cache
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.F0BD4203.Up2Date
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.Consumer-3.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\refint\RabbitMQ.Consumer-3.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.Consumer-3.pdb
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\RabbitMQ.Consumer-3.genruntimeconfig.cache
+C:\Users\mav228\Desktop\RabbitMQ\Example-2\Round-Robin-Dispatching\RabbitMQ.Consumer-3\obj\Debug\net8.0\ref\RabbitMQ.Consumer-3.dll

@@ -1,0 +1,4 @@
+{
+    "omnisharp.projectLoadTimeout": 60,
+    "omnisharp.workspace.loadAllProjects": true
+}
