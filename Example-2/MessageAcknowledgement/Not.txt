@@ -1,1 +1,4 @@
 Kuyruktaki mesajlar başarıyla işlendi ise consumer tarafından mesajın başarıyla işlendiğine dair bildiride bulunur ve mesaj silinir
+BasicNack ile işlenemeyen mesajları geri gönderme yapabilir ve kuyruktan silinmesini sağlayabiliriz
+BasicCancel metodu ile verilen consumerTag değerine karşılık gelen queuedeki tüm mesajlar reddedilerek işlenmez 
+BasicReject ile kuyrukta bulunan belirli olanların consumer tarafından işlenmesini istemediğim durumlarda kullanabiliriz 

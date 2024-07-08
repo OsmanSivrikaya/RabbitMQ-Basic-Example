@@ -1,0 +1,2 @@
+RabbitMQ'da bir sorun olmasına veya kapatıp açılmasına karşın kuyruk ve mesaj açısından kalıcı olarak işaretleme yapmamızı gerektirmektedir.
+İletileri bu şekilde kalıcı olarak işaretlemek iletinin kaybolmıcağını tam olarak garanti etmez.

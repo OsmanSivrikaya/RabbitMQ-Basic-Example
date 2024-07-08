@@ -1,0 +1,2 @@
+Fair Dispatch rabbitMQ'da tüm consumer'lara eşit şekilde mesajları iletmesini sağlar.
+RabbitMQ'da BasicQos metodu ile mesajların işleme hızını ve teslimat sıraısını belirliyebiliriz. Böylece 'Fair Dispatch' özelliğini konfigüre edilebilmektedir.
