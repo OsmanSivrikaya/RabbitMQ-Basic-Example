@@ -1,0 +1,13 @@
+P2P(Point-to-Point) Tasarımı:  Bu tasarımda, bir publisher ilgili mesajı direkt bir kuyruğa gönderir ve bu mesajı kuyruğu
+işleyen bir consumer tarafından tüketilir. Eğer ki senaryo gereği bir mesajın tüketici tarafından işlenmesi gerekiyorsa bu yaklaşım kullanılır.
+
+Publish/Subscribe (Pub/Sub) Tasarımı: Bu tasarımda publisher mesajı bir exchange'e gönderir ve böylece mesaj bu exchange'e bind 
+edilmiş olan tüm kuyruklara yönlendirilir. Bu tasarım, bir mesajın birçok tüketici tarafından işlenmesi gerektiği durumlarda kullanışlıdır.
+
+Work Queue(İş Kuyruğu) Tasarımı: Bu tasarımda, publisher tarafından yayınlanmış bir mesajın birden fazla consumer arasından yalnızca biri 
+tarafından tüketilmesi amaçlanmaktadır. Böylece mesajların işlenmesi sürecinde tüm consumer'lar aynı iş yüküne eşit görev dağılımına
+sahip olacaktırlar.
+
+Request/Response Tasarımı: Bu tasarımda publisher bir request yapar gibi kuyruğa mesaj gönderir ve bu mesajı tüketen consumer'dan sonuca dair başka 
+kuyruktan bir yanıt/response bekler. Bu tarz seneryolar için oldukca uygun bir tasarımdır. Publisher mesajları gönderdikten sonra dinlemesi gerektiği için publishler da 
+bir consumer görevi yapar.

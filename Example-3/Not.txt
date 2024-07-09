@@ -1,5 +1,6 @@
 Direct Exchange : Mesajların direkt olarak belirli bir kuyruğa gönderilmesini sağlanayan exchange'dir.
 Birden fazla kuyruğun kullanıldığı seneryolarda istediğiniz kuyruğa nokta atış publish işlemi yapmak istiyorsanız direck exchange bu şekilde kullanılabilir.
+Eğer bir exchange kullanmıyorsak default olarak direct exchange kullanılıyor.
 
 Fanout Exchange: Mesajların, bu exchange'e bind olmuş olan tüm kuyruklara gönderilmesini sağlar. 
 Publisher mesajların gönderildiğini kuyruk isimlerini dikkate almaz ve mesajları tüm kuyruklara gönderir.
@@ -13,3 +14,8 @@ x-match: ilgili queue'nun mesajı hangi davranışla alacağının kararını ve
 bu iki değer alır birincisi 
 any: ilgili queue'nun sadece tek bir key-value değerinin eşleşmesi neticesinde mesajı alacağını ifade eder.
 all: ilgili queue'nun tüm key-value değerindeki verilerin eşleşmesi neticeisinde mesajı alacağını ifade eder.
+
+RabbitMQ Mesaj Tasarımları Nelerdir?
+Mesaj tasarımlarından kastedilen tıpkı design pattern'lar da olduğu gibi belli başlı senaryolarda karşı gösterilebilecek 
+önceden tanımlanmış, tarif edilmiş ve pratiksel olarak adımlanarı saptanmış davranışlardır. Tasarım kullanma nedenimiz yazılımcılar arasında
+geliştirmeyi kolaylaştırmak ve hataları öngörmeyi sağlamak için kullanılır. 
