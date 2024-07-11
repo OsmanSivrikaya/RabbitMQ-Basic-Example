@@ -1,0 +1,19 @@
+ESB (Enterprise Service Bus) Nedir?
+ESB, servisler arası entegrasyon sağlayan bileşenlerin bütünüdür. Bunu daha iyi anlamak için şu örneği düşünebiliriz:
+RabbitMQ, farklı sistemler arasında bir iletişim modeli ortaya koymamızı sağlayan bir teknolojidir. 
+Yani, farklı yazılım sistemlerinin birbirleriyle iletişim kurmasını sağlamak için kullanılan bir yazılım mimarisi ve araç setidir.
+ESB, RabbitMQ gibi farklı sistemlerin birbirleriyle etkileşime girmesini sağlayan teknolojilerin kullanımını
+ve yönetilebilirliğini kolaylaştırmakta ve bu süreç için bir ortam sağlamaktadır. 
+RabbitMQ teknolojisi ile tasarlanan bir sistem, gelecekteki ihtiyaçlar doğrultusunda Kafka gibi farklı bir mesaj aracısına geçişi kolaylaştırmaktadır.
+
+MassTransit Nedir?
+MassTransit, .NET için geliştirilmiş, distributed (dağıtılmış) uygulamaları kolaylıkla yönetmeyi ve çalıştırmayı amaçlayan ücretsiz,
+açık kaynaklı bir enterprise service bus (kurumsal servis otobüsü) framework'üdür. Messaging tabanlı, gevşek bağlı (loosely coupled) ve 
+asenkron olarak tasarlanmış dağıtık sistemlerde yüksek dereceli kullanılabilirlik, güvenilirlik ve ölçeklenebilirlik sağlayabilmek için
+servisler oluşturmayı oldukça kolaylaştırmaktadır.
+
+MassTransit hangi durumlarda kullanılır?
+MassTransit, özellikle microservice mimarisi gibi dağıtık sistemlerin oluşturulmasında ve bu sistemler arasındaki haberleşme sürecinde herhangi 
+bir teknolojiye dair olabilecek bağımlılığı soyutlamak için kullanılan bir kütüphanedir. 
+Bu kütüphane, farklı microservice'lerin birbirleriyle etkin bir şekilde iletişim kurmasını sağlar ve bu süreçte kullanılan mesajlaşma 
+altyapısını (RabbitMQ, Azure Service Bus, Kafka, vs.) soyutlayarak geliştiricilerin işini kolaylaştırır. 

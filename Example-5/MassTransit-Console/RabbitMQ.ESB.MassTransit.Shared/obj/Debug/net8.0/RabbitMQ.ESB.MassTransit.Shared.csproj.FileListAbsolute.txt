@@ -1,0 +1,12 @@
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\bin\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.deps.json
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\bin\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\bin\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.pdb
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.AssemblyInfoInputs.cache
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.AssemblyInfo.cs
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.sourcelink.json
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\refint\RabbitMQ.ESB.MassTransit.Shared.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\RabbitMQ.ESB.MassTransit.Shared.pdb
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-Console\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net8.0\ref\RabbitMQ.ESB.MassTransit.Shared.dll

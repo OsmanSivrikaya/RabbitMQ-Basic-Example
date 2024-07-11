@@ -1,0 +1,12 @@
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\bin\Debug\net8.0\Shared.WorkerService.deps.json
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\bin\Debug\net8.0\Shared.WorkerService.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\bin\Debug\net8.0\Shared.WorkerService.pdb
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\Shared.WorkerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\Shared.WorkerService.AssemblyInfoInputs.cache
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\Shared.WorkerService.AssemblyInfo.cs
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\Shared.WorkerService.csproj.CoreCompileInputs.cache
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\Shared.WorkerService.sourcelink.json
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\Shared.WorkerService.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\refint\Shared.WorkerService.dll
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\Shared.WorkerService.pdb
+C:\Users\mav228\Desktop\RabbitMQ\Example-5\MassTransit-WorkerService\Shared.WorkerService\obj\Debug\net8.0\ref\Shared.WorkerService.dll

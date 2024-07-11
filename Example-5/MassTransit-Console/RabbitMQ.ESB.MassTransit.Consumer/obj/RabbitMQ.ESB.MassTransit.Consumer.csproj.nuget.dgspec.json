@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Consumer\\RabbitMQ.ESB.MassTransit.Consumer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Consumer\\RabbitMQ.ESB.MassTransit.Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Consumer\\RabbitMQ.ESB.MassTransit.Consumer.csproj",
+        "projectName": "RabbitMQ.ESB.MassTransit.Consumer",
+        "projectPath": "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Consumer\\RabbitMQ.ESB.MassTransit.Consumer.csproj",
+        "packagesPath": "C:\\Users\\mav228\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mav228\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Shared\\RabbitMQ.ESB.MassTransit.Shared.csproj": {
+                "projectPath": "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Shared\\RabbitMQ.ESB.MassTransit.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Shared\\RabbitMQ.ESB.MassTransit.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Shared\\RabbitMQ.ESB.MassTransit.Shared.csproj",
+        "projectName": "RabbitMQ.ESB.MassTransit.Shared",
+        "projectPath": "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Shared\\RabbitMQ.ESB.MassTransit.Shared.csproj",
+        "packagesPath": "C:\\Users\\mav228\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mav228\\Desktop\\RabbitMQ\\Example-5\\MassTransit-Console\\RabbitMQ.ESB.MassTransit.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mav228\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
